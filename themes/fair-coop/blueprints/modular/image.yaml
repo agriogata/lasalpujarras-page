@@ -1,0 +1,25 @@
+title: Image
+'@extends':
+    type: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        content:
+          fields:
+            header.image.heading:
+              type: text
+              label: Text inside the image
+            header.image.background_image:
+              type: filepicker
+              folder: '@self'
+              preview_images: true
+              accept:
+                - .png
+                - .jpg
+              label: Background Image
+              help: Image filename that exists in the page folder.
+              placeholder: For example: myimage.jpg

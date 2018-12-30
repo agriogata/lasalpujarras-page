@@ -1,0 +1,44 @@
+title: Values
+'@extends':
+    type: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        content:
+          fields:
+            header.values1.heading:
+              type: text
+              label: First Heading
+            header.values1.description:
+              type: editor
+              label: First description for first heading
+            header.values2.heading:
+              type: text
+              label: Second Heading
+            header.values2.description:
+              type: editor
+              label: Second description for second heading
+            header.values3.heading:
+              type: text
+              label: Third Heading
+            header.values3.description:
+              type: editor
+              label: Third description for third heading
+            header.values4.heading:
+              type: text
+              label: Fourth Heading
+            header.values4.description:
+              type: editor
+              label: Fourth description for fourth heading
+            header.values5.heading:
+              type: text
+              label: Fifh Heading
+            header.values5.description:
+              type: editor
+              label: Fifh description for fifh heading
+
+

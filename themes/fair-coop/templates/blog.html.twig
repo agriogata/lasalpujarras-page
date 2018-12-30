@@ -1,0 +1,287 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+
+<div class="blog-section container">
+{% set collection = page.collection() %}
+{% set dateformat = admin.page.dateformat ?: config.system.pages.dateformat.short ?: "F d, Y" %}
+		{% set blog_image = page.media.images|first.grayscale().contrast(20).brightness(-100).colorize(-35,81,122) %}
+
+		{% if blog_image %}
+		<div class="image-tittle">
+		<h1>{{ page.header.title }}</h1>	
+		</div>
+		<div class="blog-header blog-header-image">
+            		{{ page.media.images|first.cropResize(1038,437).html(page.title, page.title, 'image featured') }}
+        		{% else %}
+            		{{ page.media.images|first.cropZoom(1038,437).html(page.title, page.title, 'image featured') }}
+        		{% endif %}
+		</div>
+    <div class="row">
+      <div class="col-md-9">
+       <div class="blog row">
+        {% for post in collection %}
+
+        <div class="blog-posts col-md-4">
+            <a href="{{ post.url }}">
+	    {% if post.header.thumbnail_image.image %}
+		<img alt="{{ post.title }}" src="{{ post.url }}/{{ post.header.thumbnail_image.image }}">
+	    {% else %}
+	        {{ post.media.images|first.html }}
+	    {% endif %}
+                <h2 class="post-title">{{ post.title }}</h2>
+            </a>
+	    <hr>
+	    <p class="post-meta"> {{ post.date|date(dateformat) }} {{ post.header.author }}</p>
+ 	    {% if post.header.summary.description %}
+	    <div class="summary-text">{{ post.header.summary.description }}</div>
+	    {% else %}
+	    <div class="summary-text">{{ post.summary }}</div>
+	    {% endif %}
+	    <div class="readmore-button">
+		<a href="{{ post.url }}">{{ 'read more'|t }}</a>
+	    </div>
+        </div>
+        <hr>
+        {% endfor %}
+
+
+        {% if config.plugins.pagination.enabled and collection.params.pagination %}
+            {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %}
+        {% endif %}
+	
+	</div>
+        </div>
+
+{% set options = { items: {'@taxonomy.category': 'news'},'limit':3, 'order': {'by': 'date', 'dir': 'desc'} } %}
+{% set news_collection = page.collection(options) %}
+
+	<div class="sidebar col-md-3">
+	<div class="search left">
+	<h3> {{ 'Search'|t }} </h3>
+            {% include 'partials/simplesearch_searchbox.html.twig' %}
+        </div>
+	<div class="last-news">
+	<h3> {{ 'Last News'|t }} </h3>
+	{% for p in news_collection %}
+	<div class="news-posts">
+            <a href="{{ p.url }}">
+	    {% if p.header.thumbnail_image.image %}
+		<img alt="{{ p.title }}" src="{{ p.url }}/{{ p.header.thumbnail_image.image }}">
+	    {% else %}
+	        {{ p.media.images|first.html }}
+	    {% endif %}
+                <h4 class="post-title">{{ p.title }}</h4>
+            </a>
+        </div>
+        <hr>
+        {% endfor %}
+	</div>
+{% set options = { items: {'@taxonomy.category': 'campaign'},'limit':3, 'order': {'by': 'date', 'dir': 'desc'} } %}
+{% set campaign_collection = page.collection(options) %}
+	<div class="last-campaigns">
+	<h3> {{ 'Last Campaigns'|t }} </h3>
+	{% for p in campaign_collection %}
+	<div class="campaign-posts">
+            <a href="{{ p.url }}">
+	    {% if p.header.thumbnail_image.image %}
+		<img alt="{{ p.title }}" src="{{ p.url }}/{{ p.header.thumbnail_image.image }}">
+	    {% else %}
+	        {{ p.media.images|first.html }}
+	    {% endif %}
+                <h4 class="post-title">{{ p.title }}</h4>
+            </a>
+        </div>
+        <hr>
+        {% endfor %}
+	</div>
+	{% include 'partials/tagcloud.html.twig' with {'base_url':new_base_url, 'taxonomy':'tag'} %}
+
+<div class="buttons">
+<a href="{{ base_url }}/blog.atom">
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30.328152"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="rss.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4428"
+       effect="spiro" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="56.144662"
+     inkscape:cy="-17.398491"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.17666409,-17.869365)">
+    <g
+       id="g3491"
+       transform="matrix(0.30328151,0,0,0.30328151,0.17666409,17.869365)"
+       style="fill:#ff6600">
+      <ellipse
+         id="ellipse3479"
+         ry="13.714"
+         rx="13.566"
+         cx="13.566"
+         cy="86.286003"
+         sodipodi:cx="13.566"
+         sodipodi:cy="86.286003"
+         sodipodi:rx="13.566"
+         sodipodi:ry="13.714"
+         d="M 27.132,86.286003 C 27.132,93.860036 21.058295,100 13.566,100 6.0737051,100 0,93.860036 0,86.286003 c 0,-7.574033 6.0737051,-13.714 13.566,-13.714 7.492295,0 13.566,6.139967 13.566,13.714 z"
+         style="fill:#ff6600" />
+      <path
+         id="path3481"
+         d="M 65.569,100 H 46.35 C 46.35,74.121 25.598,53.142 0,53.142 V 33.715 c 36.214,0 65.569,29.676 65.569,66.285 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ff6600" />
+      <path
+         id="path3483"
+         d="M 79.135,100 C 79.135,55.817 43.706,20 0,20 V 0 C 54.631,0 98.918,44.772 98.918,100 H 79.135 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ff6600" />
+    </g>
+  </g>
+</svg>
+ Atom1.0</a>
+<a class="button" href="{{ base_url }}/blog.rss">
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30.328152"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="rss.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4428"
+       effect="spiro" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="56.144662"
+     inkscape:cy="-17.398491"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.17666409,-17.869365)">
+    <g
+       id="g3491"
+       transform="matrix(0.30328151,0,0,0.30328151,0.17666409,17.869365)"
+       style="fill:#ff6600">
+      <ellipse
+         id="ellipse3479"
+         ry="13.714"
+         rx="13.566"
+         cx="13.566"
+         cy="86.286003"
+         sodipodi:cx="13.566"
+         sodipodi:cy="86.286003"
+         sodipodi:rx="13.566"
+         sodipodi:ry="13.714"
+         d="M 27.132,86.286003 C 27.132,93.860036 21.058295,100 13.566,100 6.0737051,100 0,93.860036 0,86.286003 c 0,-7.574033 6.0737051,-13.714 13.566,-13.714 7.492295,0 13.566,6.139967 13.566,13.714 z"
+         style="fill:#ff6600" />
+      <path
+         id="path3481"
+         d="M 65.569,100 H 46.35 C 46.35,74.121 25.598,53.142 0,53.142 V 33.715 c 36.214,0 65.569,29.676 65.569,66.285 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ff6600" />
+      <path
+         id="path3483"
+         d="M 79.135,100 C 79.135,55.817 43.706,20 0,20 V 0 C 54.631,0 98.918,44.772 98.918,100 H 79.135 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ff6600" />
+    </g>
+  </g>
+</svg></i> RSS</a>
+</div>
+	</div>
+     </div>
+</div>
+{% endblock %}
+

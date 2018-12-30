@@ -1,0 +1,38 @@
+title: item of blog
+'@extends':
+    type: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        content:
+          fields:
+            header.summary.description:
+              type: editor
+              label: Summary if you want to use not automatic summary
+            header.thumbnail_image.image:
+              type: filepicker
+              folder: '@self'
+              preview_images: true
+              accept:
+                - .png
+                - .jpg
+              label: Thumbnail Image
+              help: Image filename that exists in the page folder.
+              placeholder: For example: myimage.jpg
+            header.main_image.heading:
+              type: text
+              label: Text inside the main image
+            header.main_image.image:
+              type: filepicker
+              folder: '@self'
+              preview_images: true
+              accept:
+                - .png
+                - .jpg
+              label: Main Image
+              help: Image filename that exists in the page folder.
+              placeholder: For example: myimage.jpg

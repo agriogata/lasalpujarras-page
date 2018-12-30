@@ -1,0 +1,10 @@
+<section class="section-faircoin">
+    <div class="container">
+	<div class="col-md-12">
+        {{ page.content }}
+	</div>
+    {% for button in page.header.buttons %}
+        <a class="button{% if button.primary %} primary{% endif %}" href="{{ button.url }}">{{ button.text }}</a>
+    {% endfor %}
+    </div>
+</section>

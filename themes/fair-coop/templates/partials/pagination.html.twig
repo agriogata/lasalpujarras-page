@@ -1,0 +1,19 @@
+{% set pagination = pagination|default(page.collection.params.pagination) %}
+{% set base_url = base_url|default(page.url) %}
+
+{% if pagination|length > 1 %}
+
+<div class="blog-posts col-md-4">
+<div class="pager">
+    {% if pagination.hasPrev %}
+        {% set url =  (base_url ~ pagination.params ~ pagination.prevUrl)|replace({'//':'/'}) %}
+        <div class="previous"><a href="{{ url }}">&larr; {{ 'THEME_CLEAN_BLOG.NEWER_POSTS'|t }}</a></div>
+    {% endif %}
+
+    {% if pagination.hasNext %}
+        {% set url = (base_url ~ pagination.params ~ pagination.nextUrl)|replace({'//':'/'}) %}
+        <div class="next"><a href="{{ url }}">{{ 'THEME_CLEAN_BLOG.OLDER_POSTS'|t }} &rarr;</a></div>
+    {% endif %}
+</div>
+</div>
+{% endif %}

@@ -1,0 +1,104 @@
+<section class="section-values">
+<div class="container">
+	<h2>{{ page.header.title }}</h2>
+	<div id="accordion">
+  <div class="row">
+   <div class="col-md-3">
+    <div class="card-header"  id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn-values" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+         	{% if header.values1.heading %}
+		{{ header.values1.heading }}
+		{% endif %}
+        </button >
+      </h5>
+    </div>
+    <div class="card-header"  id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn-values collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+         	{% if header.values2.heading %}
+		{{ header.values2.heading }}
+		{% endif %}
+        </button >
+      </h5>
+    </div>
+    <div class="card-header"  id="headingThree">
+      <h5 class="mb-0">
+        <button class="btn-values collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          	{% if header.values3.heading %}
+		{{ header.values3.heading }}
+		{% endif %}
+        </button >
+      </h5>
+    </div>
+    <div class="card-header"  id="headingFour">
+      <h5 class="mb-0">
+        <button class="btn-values collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+         	{% if header.values4.heading %}
+		{{ header.values4.heading }}
+		{% endif %}
+        </button >
+      </h5>
+    </div>
+    <div class="card-header" id="headingFive">
+      <h5 class="mb-0">
+        <button class="btn-values collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+         	{% if header.values5.heading %}
+		{{ header.values5.heading }}
+		{% endif %}
+        </button >
+      </h5>
+    </div>
+   </div>
+
+
+
+   <div class="col-md-9">
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body">
+        	{% if  header.values1.description %}
+		<p>{{  header.values1.description }}</p>
+		{% endif %}
+      </div>
+    </div>
+
+
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+       <div class="card-body">
+        	{% if  header.values2.description %}
+		<p>{{  header.values2.description }}</p>
+		{% endif %}
+      </div>
+    </div>
+
+
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+       <div class="card-body">
+        	{% if  header.values3.description %}
+		<p>{{  header.values3.description }}</p>
+		{% endif %}
+      </div>
+    </div>
+
+
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+      <div class="card-body">
+        	{% if  header.values4.description %}
+		<p>{{  header.values4.description }}</p>
+		{% endif %}
+      </div>
+    </div>
+
+
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+      <div class="card-body">
+        	{% if  header.values5.description %}
+		<p>{{  header.values5.description }}</p>
+		{% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+	{{ page.content }}
+</div>
+</section>

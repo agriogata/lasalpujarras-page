@@ -1,0 +1,18 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+<div class="defaultpage container">
+<div class="image-tittle">
+<h1>{{ page.header.title }}</h1>	
+</div>
+<div class="image-header">
+        {% if big_header %}
+            {{ page.media.images|first.cropResize(1038,437).html(page.title, page.title, 'image featured') }}
+        {% else %}
+            {{ page.media.images|first.cropZoom(1038,437).html(page.title, page.title, 'image featured') }}
+        {% endif %}
+</div>
+    {{ page.content }}
+</div>
+{% endblock %}
+

@@ -1,0 +1,7 @@
+{% if header.image.background_image  %}
+<section class="section-image fullscreen" style="background-repeat: no-repeat;padding-bottom: 5rem;min-height: 300px;background-size: cover;background-image: url('{{ page.media[header.image.background_image].url }}');">
+{% endif %}
+        {% if header.image.heading  %}
+	<h3>{{ header.image.heading }}</h3>
+        {% endif %}        
+</section>

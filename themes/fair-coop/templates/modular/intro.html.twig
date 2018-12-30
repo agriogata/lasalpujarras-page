@@ -1,0 +1,30 @@
+{% if header.background_image  %}
+<section class="section-intro fullscreen" style="background-repeat: no-repeat;padding-bottom: 5rem;background-position: bottom;min-height: 600px;background-size: cover;background-image: url('{{ page.media[header.background_image].url }}');">
+{% endif %}
+<div class="row wrapper">
+		<div class="col-md-6">
+		{% if header.heading %}
+		<h2>{{ header.heading }}</h2>
+		{% endif %}
+         	{{ page.content }}
+	</div>
+	<div class="col-md-6">
+		<div class="welcome">
+			<span><svg xmlns="http://www.w3.org/2000/svg" color="#333" width="18" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-users"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg></span>
+			<h5>{{ 'Faircoop Beginner guide'|t }}</h5>
+			<div class="feed_actions">
+				<a class="inline" href="https://git.fairkom.net/faircoop/MediaCommunication/wikis/welcome-to-faircoop" target="blank">{{ 'Read online'|t }}</a>
+			</div>
+		</div>
+	
+	</div>
+
+<div class="button btn-read">
+	<div class="meta_desc">
+	<a href="/about">{{ 'read more'|t }}</a>
+	<a class="inline" href="https://forum.fair.coop">{{ 'join discussion'|t }}</a>
+	</div>
+</div>
+
+</div>
+</section>

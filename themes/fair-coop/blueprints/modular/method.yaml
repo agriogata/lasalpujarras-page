@@ -1,0 +1,9 @@
+title: Method
+'@extends':
+    type: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1

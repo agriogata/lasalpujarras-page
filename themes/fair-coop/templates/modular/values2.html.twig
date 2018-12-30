@@ -1,0 +1,66 @@
+<section class="section-values">
+<h2>{{ page.header.title }}</h2>
+<!--navigation-->
+<div id="sidebar-wrapper">
+  <ul class="sidebar-nav">
+	<li><h3><a href="#page-content-wrapper-1">{% if header.values1.heading %}
+		{{ header.values1.heading }}
+		{% endif %} </a></h3></li>
+	<li><h3><a href="#page-content-wrapper-2">{% if header.values2.heading %}
+		{{ header.values2.heading }}
+		{% endif %} </a></h3></li>
+	<li><h3><a href="#page-content-wrapper-3">{% if header.values3.heading %}
+		{{ header.values3.heading }}
+		{% endif %} </a></h3></li>
+	<li><h3><a href="#page-content-wrapper-4">{% if header.values4.heading %}
+		{{ header.values4.heading }}
+		{% endif %} </a></h3></li>
+	<li><h3><a href="#page-content-wrapper-5">{% if header.values5.heading %}
+		{{ header.values5.heading }}
+		{% endif %} </a></h3></li>
+  </ul>
+</div>
+<!--end navigation-->
+
+<!-- 1st section-->
+	<div id="page-content-wrapper-1">
+	 <div class="container-fluid">
+	{% if  header.values1.description %}
+		{{  header.values1.description }}<code>#page-content-wrapper-1</code>.
+	{% endif %}
+	 </div>
+	</div>
+<!-- 2nd section-->
+	<div id="page-content-wrapper-2">
+	 <div class="container-fluid">
+	{% if  header.values2.description %}
+		{{  header.values2.description }}<code>#page-content-wrapper-2</code>.
+	{% endif %}
+	 </div>
+	</div>
+<!-- 3tr section-->
+	<div id="page-content-wrapper-3">
+	 <div class="container-fluid">
+	{% if  header.values3.description %}
+		{{  header.values3.description }}<code>#page-content-wrapper-3</code>.
+	{% endif %}
+	 </div>
+	</div>
+<!-- 4th section-->
+	<div id="page-content-wrapper-4">
+	 <div class="container-fluid">
+	{% if  header.values4.description %}
+		{{  header.values4.description }}<code>#page-content-wrapper-4</code>.
+	{% endif %}
+	 </div>
+	</div>
+<!-- 5th section-->
+	<div id="page-content-wrapper-5">
+	 <div class="container-fluid">
+	{% if  header.values5.description %}
+		{{  header.values5.description }}<code>#page-content-wrapper-5</code>.
+	{% endif %}
+	 </div>
+	</div>
+	{{ page.content }}
+</section>

@@ -1,0 +1,19 @@
+<section class="section-nodes">
+    <div class="container">
+	<div class="col-md-8">
+        {{ page.content }}
+	</div>
+    {% for button in page.header.buttons %}
+        <a class="button{% if button.primary %} primary{% endif %}" href="{{ button.url }}">{{ button.text }}</a>
+    {% endfor %}
+
+		<div class="welcome">
+			<span><svg xmlns="http://www.w3.org/2000/svg" color="#333" width="18" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-users"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg></span>
+			<h5>{{ 'How to create a local node'|t }}</h5>
+			<div class="feed_actions">
+				<a class="inline" href="https://fair.coop/docs/how-to-create-local-nodes/" target="_blank" >{{ 'Read online'|t }}</a>
+			</div>
+		</div>
+	
+    </div>
+</section>

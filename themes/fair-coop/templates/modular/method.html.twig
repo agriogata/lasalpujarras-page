@@ -1,0 +1,19 @@
+<section class="section-method">
+
+        {% if header.title  %}
+	<h2>{{ header.title }}</h2>
+        {% endif %}
+    <div class="row wrapper">
+	<div class="col-md-8">
+        {{ page.content }}
+	</div>
+
+	<div class="col-md-4">
+	{% if blog_image %}
+	{{ page.media.images|first.cropResize(441,580).html(page.title, page.title, 'image method') }}
+        {% else %}
+	{{ page.media.images|first.cropZoom(441,580).html(page.title, page.title, 'image method') }}
+	{% endif %}
+	</div>
+    </div>
+</section>

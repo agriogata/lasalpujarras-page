@@ -1,0 +1,96 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+<div class="defaultpage container">
+<div class="image-tittle">
+{% if page.header.main_image.heading %}
+<h1> {{ page.header.main_image.heading }}</h1>
+{% else %}
+<h1>{{ page.header.title }}</h1>	
+{% endif %}
+</div>
+<div class="image-header">
+        {% if page.header.main_image.image %}
+           <img title="{{ page.title }}" alt="{{ page.title }}" class="image featured" src="{{ page.url }}/{{ page.header.main_image.image }}">
+        {% else %}
+            {{ page.media.images|first.cropZoom(1038,437).html(page.title, page.title, 'image featured') }}
+        {% endif %}
+</div>
+<div class="row">
+<div class="col-md-9">
+    <p class="post-meta"> {{ post.date|date(dateformat) }} {{ post.header.author }}</p>
+    {% include 'partials/socialbuttons.html.twig' with {'url' : page.url} %}
+    {{ page.content }}
+</div>
+<div class="sidebar col-md-3">
+{% set options = { items: {'@taxonomy.category': 'blog'},'limit':3, 'order': {'by': 'date', 'dir': 'desc'} } %}
+{% set blog_collection = page.collection(options) %}
+
+	<div class="search left">
+	<h3> {{ 'Search'|t }} </h3>
+            {% include 'partials/simplesearch_searchbox.html.twig' %}
+        </div>
+	<div class="last-posts">
+	<h3> {{ 'Last Posts'|t }} </h3>
+	{% for p in blog_collection %}
+	<div class="other-blog-posts">
+            <a href="{{ p.url }}">
+	    {% if p.header.thumbnail_image.image %}
+		<img alt="{{ p.title }}" src="{{ p.url }}/{{ p.header.thumbnail_image.image }}">
+	    {% else %}
+	        {{ p.media.images|first.html }}
+	    {% endif %}
+                <h4 class="post-title">{{ p.title }}</h4>
+            </a>
+        </div>
+        <hr>
+        {% endfor %}
+	</div>
+
+{% set options = { items: {'@taxonomy.category': 'news'},'limit':3, 'order': {'by': 'date', 'dir': 'desc'} } %}
+{% set news_collection = page.collection(options) %}
+	<div class="last-news">
+	<h3> {{ 'Last News'|t }} </h3>
+	{% for p in news_collection %}
+	<div class="news-posts">
+            <a href="{{ p.url }}">
+	    {% if p.header.thumbnail_image.image %}
+		<img alt="{{ p.title }}" src="{{ p.url }}/{{ p.header.thumbnail_image.image }}">
+	    {% else %}
+	        {{ p.media.images|first.html }}
+	    {% endif %}
+                <h4 class="post-title">{{ p.title }}</h4>
+            </a>
+        </div>
+        <hr>
+        {% endfor %}
+	</div>
+{% set options = { items: {'@taxonomy.category': 'campaign'},'limit':3, 'order': {'by': 'date', 'dir': 'desc'} } %}
+{% set campaign_collection = page.collection(options) %}
+	<div class="last-campaigns">
+	<h3> {{ 'Last Campaigns'|t }} </h3>
+	{% for p in campaign_collection %}
+	<div class="campaign-posts">
+            <a href="{{ p.url }}">
+	    {% if p.header.thumbnail_image.image %}
+		<img alt="{{ p.title }}" src="{{ p.url }}/{{ p.header.thumbnail_image.image }}">
+	    {% else %}
+	        {{ p.media.images|first.html }}
+	    {% endif %}
+                <h4 class="post-title">{{ p.title }}</h4>
+            </a>
+        </div>
+        <hr>
+        {% endfor %}
+	</div>
+	{% include 'partials/tagcloud.html.twig' with {'base_url':new_base_url, 'taxonomy':'tag'} %}
+
+	</div>
+     </div>
+</div>
+
+</div>
+
+</div>
+{% endblock %}
+
