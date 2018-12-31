@@ -12,6 +12,11 @@ html {
 body {
    /* Margin bottom by footer height */
    margin-bottom: 60px;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #606d6e;
+    background-attachment: fixed;
+    width: auto;
 }
 body, h1, h2, h3, h4, h5, h6 {
     font-family: Fira Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
