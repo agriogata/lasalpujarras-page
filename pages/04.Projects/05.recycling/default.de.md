@@ -3,7 +3,10 @@ title: recycling
 taxonomy:
     category: blog
 ---
-# Page Title
+
+<div class="welcome">
+
+<h2> What is it about </h2>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor eu
 felis sed ornare. Sed a mauris venenatis, pulvinar velit vel, dictum enim. Phasellus
@@ -12,3 +15,4 @@ ultricies nisl. Suspendisse tincidunt euismod risus, _quis feugiat_ arcu tincidu
 eget. Nulla eros mi, commodo vel ipsum vel, aliquet congue odio. Class aptent taciti
 sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque
 velit orci, laoreet at adipiscing eu, interdum quis nibh. Nunc a accumsan purus.
+    </div>
