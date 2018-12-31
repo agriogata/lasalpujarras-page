@@ -91,6 +91,37 @@ blockquote {
     font-size: 1.7rem;
     text-transform: uppercase;
 }
+.container{
+                width : auto%;
+                margin: auto;
+            }
+        .list{
+            border: 1px #ccc solid;
+            }
+            .list ul{
+               list-style: square;
+            }    
+        .welcome{
+                border-radius: 15px;
+                 background-color: #20202c;
+                 padding: 5px 10px;
+                margin: 20px 0;
+                color: white;
+            }
+            .faircoin{
+            float: right;
+            width: 10%;
+            position: absolute;
+            right: 20px;
+            top: 90px;
+          
+            }
+            .agreement{
+                background-color: #20202c;
+                padding: 5px 10px;
+                margin: 20px 0;
+                color: white;
+            }
 
 .footer {
     background-color: #eee;
