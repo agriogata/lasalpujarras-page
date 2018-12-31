@@ -1,5 +1,4 @@
-g---
-title: recycling
+--- title: recycling
 taxonomy:
     category: blog
 ---
