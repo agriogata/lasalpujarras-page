@@ -38,8 +38,6 @@ facebookauthor: 'https://facebook.com/colectivoecologia'
 facebookimg: /blog/CatsHUHV.jpg
 ---
 
-<head>
-        </head>
  <div class="faircoin">
             <a href="https://fair-coin.org/"><img src="https://fair-coin.org/sites/default/files/inlineimg/weacceptfaircoin.png"> </a>
     </div> 
