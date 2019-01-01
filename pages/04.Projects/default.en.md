@@ -13,21 +13,59 @@ content:
 ---
 
 <head>
-	<style>
-		    body{    
+        <style>
+            body{    
                 background-attachment: fixed;
-                width: auto;
             }
-    .Projects{
+            
+            a{
+            text-decoration: none;
+            color: white;
+            }
+            a:hover{
+            color:grey;
+            }
+            a:active{
+            }
+            a:visited{
+            }
+        .container{
+                width : 80%;
+                margin: auto;
+            }
+        .list{
+            border: 1px #ccc solid;
+            }
+            .list ul{
+               list-style: square;
+            }    
+        .welcome{
+                border-radius: 15px;
+                 background-color: #20202c;
+                 padding: 5px 10px;
+                margin: 20px 0;
+                color: white;
+            }
+            .agreement{
                 background-color: #20202c;
-        		color: white;
-    }
-   
-    </style>
+                padding: 5px 10px;
+                margin: 20px 0;
+                color: white;
+            }
+            h1{
+                color: white;
+            }
+            h2{
+                color: white;
+            }
+            p{
+                color: white;
+            }
+            
+
+</style>
 </head>
-<div class="body">
-<div class="Projects">
-    
-    <p> this is an overview about the projects which are supported by the LsN las Alpujarras </p>
+<div class="welcome">
+    <h1> Here you find an overview of project with who we are working together and where you are also very weolcome to join </h1>
     </div>
-</div>
+    
