@@ -1,6 +1,6 @@
 ---
 title: Projects
-menu: Projects
+menu: 'My Page'
 process:
     markdown: true
     twig: true
