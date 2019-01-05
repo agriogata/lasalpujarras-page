@@ -20,7 +20,8 @@ main_image:
 
    <head>
    <style>
-            body{    
+            body{
+                background-image:![](trigotklein.jpg)
                 background-attachment: fixed;
                 width: auto;
             }
