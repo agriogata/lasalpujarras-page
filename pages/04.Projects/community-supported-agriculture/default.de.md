@@ -1,5 +1,12 @@
 ---
 title: 'Community Supported Agriculture'
+languages:
+    translations: true
+    supported:
+        - fr
+        - de
+        - en
+        - es
 ---
 
 <head>
