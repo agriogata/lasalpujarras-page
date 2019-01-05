@@ -1,3 +1,4 @@
+
 <ul class="langswitcher">
 {% for language in langswitcher.languages %}
 
@@ -21,10 +22,10 @@
         {% endif %}
         {% set active_class = '' %}
     {% endif %}
-
     {% if show_language %}
         <li class="dropdown-item"><a href="{{ lang_url ~ uri.params }}" class="external{{ active_class }}">{{ native_name(language)|capitalize }}</a></li>
     {% endif %}
+    
 
 {% endfor %}
 </ul>
