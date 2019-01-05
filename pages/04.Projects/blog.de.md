@@ -73,3 +73,7 @@ content:
     <h1> Here you find an overview of project with who we are working together and where you are also very weolcome to join </h1>
     </div>
     
+{% for module in page.collection() %}
+    {{ module.content }}
+{% endfor %}
+    
