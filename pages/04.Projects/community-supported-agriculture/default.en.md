@@ -23,7 +23,9 @@ title: 'Community Supported Agriculture'
             }
             </style>
     </head>
-    {% include 'partials/langswitcher.html.twig' %}
+   <div class="langswitcher"> 
+	{% include 'partials/langswitcher.html.twig' %}
+	</div>
 <div class="text">
     
 <h1>Welcome on the Website of a possible Community Supported Agriculture. </h1>
