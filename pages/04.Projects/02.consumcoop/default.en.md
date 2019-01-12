@@ -106,7 +106,7 @@ Here you will find all the news and informations about the ConsumCoop.
     				It can be a wonderfull ordering system for any kind of things, theoreticly people could even order pizza by it.
                     We could also work on different distribution points where the exchange takes place. <br>
     				<br>
-    Have a look on the <a href="https://bazar.komun.org/"> <b> Bazar </b></a> and discover allready the different produts allready available everywhere in the world(like <a her="https://market.fair.coop"> <b>Fairmarket </b> </a>. With the registration on the website as seller you have the possibility to offer and buy products in Euros but also in other social currencies. <br>
+    Have a look on the <a href="https://bazar.komun.org/"> <b> Bazar </b></a> and discover allready the different produts allready available everywhere in the world(like <a href="https://market.fair.coop"> <b>Fairmarket </b> </a>. With the registration on the website as seller you have the possibility to offer and buy products in Euros but also in other social currencies. <br>
                     
                     <br>                 
                     When you like the idea to create a small  local economy with us and also agree to accept faircoin, which can 					be spend in our consumcoop with everybody else, then give us your emailadress with which you registrated 					on the website, and we will add you in the consumcoop. <br>
