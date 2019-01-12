@@ -105,7 +105,7 @@ Here you will find all the news and informations about the ConsumCoop.
             
     </div>        
         <div class="block">
-       <h2> If you like the idea and would like to find out more, write us, ask what ever you would like to know and we will add your emailadresse to the newsletter </h2>
+       <p> If you like the idea and would like to find out more, write us, ask what ever you would like to know and we will 				add your emailadresse to the newsletter </p>
            email: lasalpujarras@fair.coop
            telegram: <a href="https://t.me/lasalpujarras"> LsN Alpujarra </a>
     </div>
