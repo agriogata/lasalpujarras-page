@@ -18,7 +18,7 @@ body {
     background-attachment: fixed;
     width: auto;
 }
-body, h1, h2, h3, h4, h5, h6 {
+body, h1, h2, h3, h4, h5, h6, p {
     font-family: Fira Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
     font-weight: 500;
     color: white;
