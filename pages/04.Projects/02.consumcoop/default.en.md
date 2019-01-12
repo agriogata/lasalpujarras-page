@@ -98,9 +98,14 @@ main_image:
 If we don't want that our economy and with this our needs and income is depending of the market and directly connected with the exploitation in the world, we have to organize the needs by our self in respect with human and nature. This ConsumCoop is a contribution, to provide fair products to all its members by collective and direct purchase. After this the Coop sees itself as a plattform to initialize projects in regard of the needs of the member.
 
 Here you will find all the news and informations about the ConsumCoop.
-        </div>  
+        </div> 
+    <div class="block">
+    	<h3> we would like to propose you to use the webservice of the techcollective <a href="https://bazar.komun.org/en/">  					Komun </a> </h3>
+    	<p> In their online service we have the possibility to create a small consum group. The idea is that everybody who is 					interested can get registraded to participate to our small local economy circule of products from the area and m				manufactured by the people. </p>
+            
+    </div>        
         <div class="block">
-       <h2> If you like the idea and would like to find out more, write us, ask what ever you would like to know and we will add your emailadresse to the newsletter <h/2>
+       <h2> If you like the idea and would like to find out more, write us, ask what ever you would like to know and we will add your emailadresse to the newsletter </h2>
            email: lasalpujarras@fair.coop
            telegram: <a href="https://t.me/lasalpujarras"> LsN Alpujarra </a>
     </div>
