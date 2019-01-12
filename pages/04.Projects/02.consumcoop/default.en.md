@@ -101,17 +101,17 @@ Here you will find all the news and informations about the ConsumCoop.
         </div> 
     <div class="block">
     	<h3> we would like to propose you to use the webservice of the techcollective <a href="https://bazar.komun.org/en/">  					Komun </a> </h3>
-    				In their online service we have the possibility to create a small consum group. The idea is that everybody who 						is interested can get registraded to participate to our small local economy circule of products from the area 						and manufactured by the people.
+    				In their online service we have the possibility to create a small consum group. The idea is that everybody who 						is interested can get registraded to participate to our small local economy circule of products from the area 						and manufactured by the people. <br>
     
     				It can be a wonderfull ordering system for any kind of things, theoreticly people could even order pizza by it.
-                    We could also work on different distribution points where the exchange takes place.
+                    We could also work on different distribution points where the exchange takes place. <br>
     
-    				Have a look on the Bazar and discover allready the different produts allready available everywhere in the 							world. With the registration on the website as seller you have the possibility to offer and buy products in Euros 						but also in other social currencies.
+    				Have a look on the Bazar and discover allready the different produts allready available everywhere in the 							world. With the registration on the website as seller you have the possibility to offer and buy products in Euros 						but also in other social currencies. <br>
                     
                                      
-                    When you like the idea to create a small  local economy with us and also agree to accept faircoin, which can 					be spend in our consumcoop with everybody else, then give us your emailadress with which you registrated 					on the website, and we will add you in the consumcoop.
+                    When you like the idea to create a small  local economy with us and also agree to accept faircoin, which can 					be spend in our consumcoop with everybody else, then give us your emailadress with which you registrated 					on the website, and we will add you in the consumcoop. <br>
                     
-                    If you want to meet and talk personally, come on wednesday to the farmersmarket and be explain your 							everything you want to know.
+                    If you want to meet and talk personally, come on wednesday to the farmersmarket and be explain your 							everything you want to know.<br>
           
     </div>        
         <div class="block">
