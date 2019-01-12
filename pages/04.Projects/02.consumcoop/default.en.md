@@ -101,8 +101,8 @@ Here you will find all the news and informations about the ConsumCoop.
         </div> 
     <div class="block">
     	<h3> we would like to propose you to use the webservice of the techcollective <a href="https://bazar.komun.org/en/">  					Komun </a> </h3>
-    	<h4> In their online service we have the possibility to create a small consum group. The idea is that everybody who is 					interested can get registraded to participate to our small local economy circule of products from the area and m				manufactured by the people. </h4>
-            
+    	In their online service we have the possibility to create a small consum group. The idea is that everybody who is 					interested can get registraded to participate to our small local economy circule of products from the area and m				manufactured by the people.
+          
     </div>        
         <div class="block">
        <p> If you like the idea and would like to find out more, write us, ask what ever you would like to know and we will 				add your emailadresse to the newsletter </p>
