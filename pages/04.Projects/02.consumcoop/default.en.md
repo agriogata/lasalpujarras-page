@@ -111,7 +111,7 @@ Here you will find all the news and informations about the ConsumCoop.
                     <br>                 
                     When you like the idea to create a small  local economy with us and also agree to accept faircoin, which can 					be spend in our consumcoop with everybody else, then give us your emailadress with which you registrated 					on the website, and we will add you in the consumcoop. <br>
                     <br>
-                    If you want to meet and talk personally, come on wednesday to the farmersmarket and be explain your 							everything you want to know.<br>
+                    If you want to meet and talk personally, come on wednesday to the farmersmarket in cigarones and we explain you	everything you want to know.<br>
           
     </div>        
         <div class="block">
