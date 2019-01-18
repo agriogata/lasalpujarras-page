@@ -1,6 +1,5 @@
 ---
 title: ' ConsumCoop '
-media_order: food-storage-pantry.jpg
 content:
     items:
         - '@self.children'
