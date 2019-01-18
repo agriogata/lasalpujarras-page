@@ -1,5 +1,6 @@
 ---
 title: ' ConsumCoop '
+media_order: food-storage-pantry.jpg
 content:
     items:
         - '@self.children'
@@ -21,7 +22,7 @@ main_image:
    <head>
    <style>
             body{
-                background-image:![](trigotklein.jpg)
+                background-image:![](food-storage-pantry.jpg)
                 background-attachment: fixed;
                 width: auto;
             }
