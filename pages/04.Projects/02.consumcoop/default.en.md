@@ -20,7 +20,8 @@ main_image:
 
    <head>
    <style>
-            body{    
+            body{
+                background-image:![](food-storage-pantry-klein.jpg)
                 background-attachment: fixed;
                 width: auto;
             }
@@ -98,28 +99,16 @@ main_image:
 If we don't want that our economy and with this our needs and income is depending of the market and directly connected with the exploitation in the world, we have to organize the needs by our self in respect with human and nature. This ConsumCoop is a contribution, to provide fair products to all its members by collective and direct purchase. After this the Coop sees itself as a plattform to initialize projects in regard of the needs of the member.
 
 Here you will find all the news and informations about the ConsumCoop.
-        </div> 
+        </div>  
     <div class="block">
     	<h3> we would like to propose you to use the webservice of the techcollective <a href="https://bazar.komun.org/en/">  					Komun </a> </h3>
-    				In their online service we have the possibility to create a small consum group. The idea is that everybody who 						is interested can get registraded to participate to our small local economy circule of products from the area 						and manufactured by the people. <br>
-    				<br>
-    				It can be a wonderfull ordering system for any kind of things, theoreticly people could even order pizza by it.
-                    We could also work on different distribution points where the exchange takes place. <br>
-    				<br>
-    Have a look on the <a href="https://bazar.komun.org/"> <b> Bazar </b></a> and discover allready the different produts allready available everywhere in the world(like <a href="https://market.fair.coop"> <b>Fairmarket </b> </a>. With the registration on the website as seller you have the possibility to offer and buy products in Euros but also in other social currencies. <br>
-                    
-                    <br>                 
-                    When you like the idea to create a small  local economy with us and also agree to accept faircoin, which can 					be spend in our consumcoop with everybody else, then give us your emailadress with which you registrated 					on the <a href="https://bazar.komun.org/"> <b> website </b></a>, and we will add you in the consumcoop. <br>
-                    <br>
-                    If you want to meet and talk personally, come on wednesday to the farmersmarket in cigarones and we explain you	everything you want to know.<br>
-          
-    </div>        
+    </div>
         <div class="block">
-       		<h3> If you like the idea and would like to find out more, write us, ask what ever you would like to know and we will 				add your emailadresse to the newsletter </h3>
+       <h2> If you like the idea and would like to find out more, write us, ask what ever you would like to know and we can 				add your emailadresse to the newsletter </h2>
            email: lasalpujarras@fair.coop
            telegram: <a href="https://t.me/lasalpujarras"> LsN Alpujarra </a>
-           <br>
     </div>
+            
     </div> 
     </div>
 
