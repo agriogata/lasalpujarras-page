@@ -1,5 +1,7 @@
 ---
 title: 'Fair economy'
+subheading: ''
+header_image: ''
 published: true
 taxonomy:
     category:
