@@ -23,7 +23,8 @@ content:
 ---
 
 [](veggie.png)
-
+</body>
 <div id="welcome">
     <h1>Potatoes</h1>
     </div>
+</body>    
