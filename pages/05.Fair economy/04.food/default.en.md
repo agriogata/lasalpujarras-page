@@ -34,7 +34,7 @@ content:
                 border-radius: 15px;
                  background-color: #20202c;
                  padding: 5px 10px;
-                margin: 20px 0;
+                margin: 20px 5px;
                 color: white;
             	width: auto;
             	float: left;
