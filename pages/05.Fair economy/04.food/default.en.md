@@ -32,7 +32,8 @@ content:
                  background-color: #20202c;
                  padding: 5px 10px;
                 margin: 20px 0;
-                color: white;            
+                color: white;
+            	width: auto;
         	}
 </style>
 </head>                
