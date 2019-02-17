@@ -27,6 +27,9 @@ content:
         body{
             background-attachment: fixed;
         }
+        * {
+ 				box-sizing: border-box;
+		}
         .product{
                 border-radius: 15px;
                  background-color: #20202c;
@@ -37,8 +40,14 @@ content:
             	float: left;
             	clear: left;
         	}
+        .clearfix::after {
+  		content: "";
+  		clear: both;
+  		display: table;
+		}
 </style>
-</head>                
+</head> 
+<div class="clearfix">
 <div class="product">
     <h1>Potatoes</h1>
     </div>
@@ -47,4 +56,5 @@ content:
     </div>
 <div class="product">
     <h1>Potatoes</h1>
+    </div>
     </div>
