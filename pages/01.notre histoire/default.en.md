@@ -9,6 +9,7 @@ taxonomy:
         - blog
 external_links:
     title: true
+menu: Blog
 process:
     markdown: true
     twig: true
