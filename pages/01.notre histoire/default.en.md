@@ -1,6 +1,5 @@
 ---
 title: Blog
-media_order: carrotfist-las.jpg
 published: true
 taxonomy:
     category:
@@ -44,6 +43,4 @@ feed:
     limit: 10
 pagination: true
 ---
-
-# Blog
 
