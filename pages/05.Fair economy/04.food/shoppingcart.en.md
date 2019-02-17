@@ -1,6 +1,8 @@
 ---
 title: food
 media_order: veggie.png
+subheading: ''
+header_image: ''
 published: true
 taxonomy:
     category:
