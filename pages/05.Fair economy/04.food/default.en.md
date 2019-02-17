@@ -34,7 +34,8 @@ content:
                 margin: 20px 0;
                 color: white;            
         	}
-                
+    </style>
+</head>                
 <body>
 <div class="product">
     <h1>Potatoes</h1>
