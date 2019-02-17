@@ -33,7 +33,7 @@ content:
                  padding: 5px 10px;
                 margin: 20px 0;
                 color: white;
-            	width: auto;
+            	width: 30%;
         	}
 </style>
 </head>                
