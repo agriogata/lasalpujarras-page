@@ -1,8 +1,6 @@
 ---
 title: food
 media_order: veggie.png
-subheading: ''
-header_image: ''
 published: true
 taxonomy:
     category:
@@ -11,6 +9,8 @@ taxonomy:
     tag:
         - 'economia local'
         - food
+subheading: ''
+header_image: ''
 content:
     items:
         - '@self.children'
@@ -23,3 +23,7 @@ content:
 ---
 
 [](veggie.png)
+
+<div id="welcome">
+    <h1>Potatoes</h1>
+    </div>
