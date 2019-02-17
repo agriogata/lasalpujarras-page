@@ -23,8 +23,21 @@ content:
 ---
 
 [](veggie.png)
-</body>
-<div id="welcome">
+<head>
+    <style>
+        body{
+            background-attachment: fixed;
+        }
+        .product{
+                border-radius: 15px;
+                 background-color: #20202c;
+                 padding: 5px 10px;
+                margin: 20px 0;
+                color: white;            
+        	}
+                
+<body>
+<div id="product">
     <h1>Potatoes</h1>
     </div>
 </body>    
