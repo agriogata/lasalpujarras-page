@@ -9,7 +9,6 @@ process:
     twig: true
 routable: true
 visible: true
-media_order: ''
 subheading: ''
 header_image: ''
 taxonomy:
