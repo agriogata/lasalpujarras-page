@@ -31,13 +31,13 @@ external_links:
 </style>
 </head> 
 <div class="clearfix">
-<div class="Biogas">
-    <h1>Potatoes</h1>
+<div class="product">
+    <h1>Biogas</h1>
     </div>
-<div class="Photovoltaik">
-    <h1>carrots</h1>
+<div class="product">
+    <h1>Photovoltaik</h1>
     </div>
-<div class="Solarthermy">
-    <h1>leak</h1>
+<div class="product">
+    <h1>Solarthermy</h1>
     </div>
     </div>
