@@ -72,7 +72,7 @@ Local Nodes are the regional representation groups and expansion of FairCoop on 
    Are you interested in our work? come and visit us. <br> You will find us:
    <br>
 
-    locally in Orgiva, calle real 4 (in the small ecologic shop) or on the local market.<br>
+    locally in Cigarones every wednesday on the local market.<br>
 
     You can also write us an email or join our telegram group and we explain you more in detail.
     <a href="https://t.me/lasalpujarras"> [Telegram Las Alpujarras ] </a>
