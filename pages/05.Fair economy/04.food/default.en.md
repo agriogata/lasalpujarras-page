@@ -34,7 +34,7 @@ content:
                 margin: 20px 0;
                 color: white;
             	width: auto;
-            	float: left;
+            	clear: left;
         	}
 </style>
 </head>                
