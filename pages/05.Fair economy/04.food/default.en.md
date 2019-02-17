@@ -33,10 +33,16 @@ content:
                  padding: 5px 10px;
                 margin: 20px 0;
                 color: white;
-            	width: 30%;
+            	width: auto;
         	}
 </style>
 </head>                
+<div class="product">
+    <h1>Potatoes</h1>
+    </div>
+<div class="product">
+    <h1>Potatoes</h1>
+    </div>
 <div class="product">
     <h1>Potatoes</h1>
     </div>
