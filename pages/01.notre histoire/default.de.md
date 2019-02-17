@@ -1,7 +1,11 @@
 ---
 title: Blog
-external_url: 'http://blog.fair.coop/'
 published: true
+taxonomy:
+    category:
+        - blog
+    tag:
+        - blog
 external_links:
     title: true
 process:
@@ -9,13 +13,9 @@ process:
     twig: true
 routable: true
 visible: true
+external_url: 'http://blog.fair.coop/'
 subheading: ''
 header_image: ''
-taxonomy:
-    category:
-        - blog
-    tag:
-        - blog
 content:
     items:
         - '@self.children'
