@@ -1,7 +1,5 @@
 ---
 title: 'Fair economy'
-subheading: ''
-header_image: ''
 published: true
 taxonomy:
     category:
@@ -20,6 +18,8 @@ process:
     twig: true
 admin:
     children_display_order: collection
+subheading: ''
+header_image: ''
 content:
     items:
         - '@self.children'
