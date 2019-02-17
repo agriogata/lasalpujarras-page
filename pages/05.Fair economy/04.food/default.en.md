@@ -51,9 +51,9 @@ content:
     <h1>Potatoes</h1>
     </div>
 <div class="product">
-    <h1>Potatoes</h1>
+    <h1>carrots</h1>
     </div>
 <div class="product">
-    <h1>Potatoes</h1>
+    <h1>leak</h1>
     </div>
     </div>
