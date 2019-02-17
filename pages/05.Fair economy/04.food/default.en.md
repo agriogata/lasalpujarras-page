@@ -36,7 +36,7 @@ content:
         	}
                 
 <body>
-<div id="product">
+<div class="product">
     <h1>Potatoes</h1>
     </div>
 </body>    
