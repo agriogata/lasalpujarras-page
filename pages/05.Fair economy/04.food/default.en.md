@@ -22,7 +22,6 @@ content:
     url_taxonomy_filters: true
 ---
 
-[](veggie.png)
 <head>
     <style>
         body{
