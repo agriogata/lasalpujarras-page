@@ -38,7 +38,6 @@ content:
                 color: white;
             	width: auto;
             	float: left;
-            	clear: left;
         	}
         .clearfix::after {
   		content: "";
