@@ -111,6 +111,9 @@ facebookimg: /blog/CatsHUHV.jpg
 <div class= "body">
         
 <div class= "container">
+    <div class="welcome">
+     <img src="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/52136254_115557152912665_1028710315967119360_n.jpg?_nc_cat=104&_nc_ht=scontent-mad1-1.xx&oh=f078494df65210089ff37db215e88994&oe=5CF48792" alt="NO A LAS TORRES"> 
+    </div>
 
 <div class="welcome">
     <h1> Welcome to Las Alpujarras!</h1>
