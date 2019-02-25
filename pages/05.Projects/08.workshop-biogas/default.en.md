@@ -54,5 +54,6 @@ title: 'workshop biogas'
   </style>          
 </head>
 <div class="welcome">
-As contribution to the actual protest again the <a href="http://dinoalastorres.org/"> high tension tower <a> we would like to invite you to projects of local energy production. from the people for the people.
+As contribution to the actual protest against the <a href="http://dinoalastorres.org/"> high tension tower <a> we would like to invite you to projects of local energy production. from the people for the people.
+    On possibility as thermal and electric supply especially in rural areas is the biogasdigester
     </div>
