@@ -56,7 +56,10 @@ title: 'workshop biogas'
 <div class= "container">
     <div class="welcome">
 As contribution to the actual protest against the <a href="http://dinoalastorres.org/"> high tension tower <a> we would like to invite you to projects of local energy production. from the people for the people. <br>
-    One possibility as thermal and electric supply especially in rural areas is the biogasdigester
+    One possibility as thermal and electric supply especially in rural areas is the biogasdigester <br>
+        <video width="400" controls>
+  <source src="https://www.youtube.com/watch?v=Cwm5Rm8uIsk" type="video/mp4">
+</video>
     </div>
      <div class="welcome">
      <img src="https://i.ytimg.com/vi/rJIMJ355pkc/hqdefault.jpg" alt="BIOGAS"> 
