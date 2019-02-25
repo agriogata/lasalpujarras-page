@@ -53,6 +53,6 @@ title: 'workshop biogas'
             }
             
 
-<div="welcome">
+<div class="welcome">
 As contribution to the actual protest again the <a href="http://dinoalastorres.org/"> high tension tower <a> we would like to invite you to project of local energy production. from the people for the people.
     </div>
