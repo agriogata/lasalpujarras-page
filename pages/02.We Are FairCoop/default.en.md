@@ -120,6 +120,9 @@ facebookimg: /blog/CatsHUHV.jpg
             p{
                 color: white;
             }
+            th{
+            	color: black;
+            }
             
 
 </style>
