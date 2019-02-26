@@ -80,6 +80,7 @@ facebookimg: /blog/CatsHUHV.jpg
                 margin: 20px 0;
                 color: white;
                 width: 20%;
+                float: right;
             }
             .faircoin{
             float: right;
