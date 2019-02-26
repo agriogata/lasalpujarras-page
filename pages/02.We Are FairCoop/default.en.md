@@ -139,9 +139,11 @@ facebookimg: /blog/CatsHUHV.jpg
     <th>action/place</th>
   </tr>
     <tr>
-        <td><a href="https://lasalpujarras.fair.coop/en/jobcenter/website"> website maintain</a></td>
-    <td>flexible</td>
-    <td>online</td>
+        <td>thursday from 10h</td>
+        <td>meeting/working day</td>
+        <td><a href="https://lasalpujarras.fair.coop/en/projects/coopgarden"> CoopGarden</a></td>
+    
+  
   </tr>
     </table>
      </div>
