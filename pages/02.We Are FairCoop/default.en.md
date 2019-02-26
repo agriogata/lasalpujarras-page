@@ -99,6 +99,13 @@ facebookimg: /blog/CatsHUHV.jpg
                 margin: 20px 0;
                 color: white;
             }
+                 .table{
+                 border-radius: 15px;
+                 background-color: #20202c;
+                 padding: 5px 10px;
+                margin: 20px 0;
+             	
+                }
             h1{
                 color: white;
                 text-alinge: centre;
