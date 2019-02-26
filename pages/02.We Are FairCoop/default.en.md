@@ -79,7 +79,6 @@ facebookimg: /blog/CatsHUHV.jpg
                  padding: 5px 10px;
                 margin: 20px 0;
                 color: white;
-                width: 20%;
                 float: right;
                 position: absolute;
                 right: 20px;
