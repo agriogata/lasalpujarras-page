@@ -109,7 +109,10 @@ facebookimg: /blog/CatsHUHV.jpg
             <a href="https://fair-coin.org/"><img src="https://fair-coin.org/sites/default/files/inlineimg/weacceptfaircoin.png"> </a>
     </div> 
 <div class= "body">
-        
+ <div class="timetable">
+     <h1>TimeTable</h1>
+     </div>
+     
 <div class= "container">
         <div class="welcome">
      <img src="https://i.ytimg.com/vi/rJIMJ355pkc/hqdefault.jpg" alt="BIOGAS"> 
