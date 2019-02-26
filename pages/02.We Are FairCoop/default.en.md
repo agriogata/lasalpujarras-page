@@ -135,7 +135,8 @@ facebookimg: /blog/CatsHUHV.jpg
      <table id="taks">
   <tr>
      <th>time</th>
-    <th>action/place</th>
+    <th>action</th>
+     <th>place</th>
   </tr>
     <tr>
         <td>thursday from 10h</td>
