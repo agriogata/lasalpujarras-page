@@ -73,6 +73,13 @@ facebookimg: /blog/CatsHUHV.jpg
                 margin: 20px 0;
                 color: white;
             }
+                    .timetable{
+                border-radius: 15px;
+                 background-color: #20202c;
+                 padding: 5px 10px;
+                margin: 20px 0;
+                color: white;
+            }
             .faircoin{
             float: right;
             width: 10%;
