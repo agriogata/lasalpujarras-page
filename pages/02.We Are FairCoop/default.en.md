@@ -123,6 +123,17 @@ facebookimg: /blog/CatsHUHV.jpg
 <div class= "body">
  <div class="timetable">
      <h1>TimeTable</h1>
+     <table id="taks">
+  <tr>
+     <th>time</th>
+    <th>action/place</th>
+  </tr>
+    <tr>
+        <td><a href="https://lasalpujarras.fair.coop/en/jobcenter/website"> website maintain</a></td>
+    <td>flexible</td>
+    <td>online</td>
+  </tr>
+    </table>
      </div>
      
 <div class= "container">
