@@ -154,7 +154,7 @@ facebookimg: /blog/CatsHUHV.jpg
 <div class= "container">
         <div class="welcome">
   
-  		<dic class="image" float="right">         
+  		<div class="image" float="right">         
  <img src="/images/ibc2.jpg" alt="IBC2" width="236" height="420">
   </div>
   
