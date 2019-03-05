@@ -158,6 +158,7 @@ facebookimg: /blog/CatsHUHV.jpg
             <a href="https://t.me/lasalpujarras"> Telegram </a> EMAIL: lasalpujarras@fair.coop
             
    page.find('/images').media['ibc2.jpg']
+   ![](/images/ibc3.jpg?cropResize=300,300)
     </div>
     
     <div class="welcome">
