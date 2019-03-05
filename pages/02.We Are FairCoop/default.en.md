@@ -1,5 +1,6 @@
 ---
 title: 'We Are FairCoop'
+media_order: 'ibc2.jpg,ibc3.jpg'
 published: true
 process:
     markdown: true
@@ -150,9 +151,8 @@ facebookimg: /blog/CatsHUHV.jpg
      
 <div class= "container">
         <div class="welcome">
-     <img src="https://i.ytimg.com/vi/rJIMJ355pkc/hqdefault.jpg" alt="BIOGAS"> 
-            
-            <h1>Second part of our <a href="https://lasalpujarras.fair.coop/en/projects/workshop-biogas"> biogas workshop </a> monday the 25th of february 3pm in cigarones. if you want to join, write us!</h1>
+       ![](ibc2.jpg)
+            <h1>Third part of our <a href="https://lasalpujarras.fair.coop/en/projects/workshop-biogas"> biogas workshop </a> monday the 08th of march 3pm in cigarones. if you want to join, write us!</h1>
             <a href="https://t.me/lasalpujarras"> Telegram </a> EMAIL: lasalpujarras@fair.coop
     </div>
     
