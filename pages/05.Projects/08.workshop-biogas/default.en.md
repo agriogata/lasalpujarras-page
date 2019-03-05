@@ -61,8 +61,18 @@ As contribution to the actual protest against the <a href="http://dinoalastorres
                 We start a serie of workshop days in which we set up this biodigester. everybody is welcome, let us know if you want to join  <a href="https://t.me/lasalpujarras"> Telegram </a> EMAIL: lasalpujarras@fair.coop <br>
                 Further then the construction we will inform you here about the actualities, perhaps you are also interested in one digester like this in your garden
 
-
 </div>
+       <div class="welcome">
+  
+  		<div class="image" float="right">         
+ <img src="/images/ibc2.jpg" alt="IBC2" width="236" height="420">
+ <img src="/images/ibc3.jpg" alt="IBC2" width="236" height="420">
+  </div>
+  
+            <h1>Third part of our <a href="https://lasalpujarras.fair.coop/en/projects/workshop-biogas"> biogas workshop </a> friday the 08th of march 3pm in cigarones. if you want to join, write us!</h1>
+            <a href="https://t.me/lasalpujarras"> Telegram </a> EMAIL: lasalpujarras@fair.coop
+            
+    </div>
     
 <div class="welcome">
      <img src="https://i.ytimg.com/vi/rJIMJ355pkc/hqdefault.jpg" alt="BIOGAS"> 
