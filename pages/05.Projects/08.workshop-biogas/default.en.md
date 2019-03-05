@@ -62,8 +62,9 @@ As contribution to the actual protest against the <a href="http://dinoalastorres
                 Further then the construction we will inform you here about the actualities, perhaps you are also interested in one digester like this in your garden
 
 
-</video>
+</div>
     </div>
+    
      <div class="welcome">
      <img src="https://i.ytimg.com/vi/rJIMJ355pkc/hqdefault.jpg" alt="BIOGAS"> 
             
