@@ -86,5 +86,4 @@ content:
     <a href="https://lasalpujarras.fair.coop/en/projects/workshop-biogas"> <h1> BIogas </h1> </a>
     </div>  
     
-    https://lasalpujarras.fair.coop/en/projects/workshop-biogas
-    
+     
