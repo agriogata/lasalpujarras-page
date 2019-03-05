@@ -157,7 +157,7 @@ facebookimg: /blog/CatsHUHV.jpg
             <h1>Third part of our <a href="https://lasalpujarras.fair.coop/en/projects/workshop-biogas"> biogas workshop </a> friday the 08th of march 3pm in cigarones. if you want to join, write us!</h1>
             <a href="https://t.me/lasalpujarras"> Telegram </a> EMAIL: lasalpujarras@fair.coop
    <dic class="image">         
- <img src="/images/ibc2.jpg" alt="IBC2">
+ <img src="/images/ibc2.jpg" alt="IBC2" width="50" height="60">
   </div>
     </div>
     
