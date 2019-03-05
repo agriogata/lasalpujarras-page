@@ -142,9 +142,12 @@ facebookimg: /blog/CatsHUHV.jpg
         <td>thursday from 10h</td>
         <td>meeting/working day</td>
         <td><a href="https://lasalpujarras.fair.coop/en/projects/coopgarden"> CoopGarden</a></td>
-    
-  
-  </tr>
+    </tr>
+             <tr>
+        <td>friday from 3pm</td>
+        <td>workshop</td>
+        <td><a href="https://lasalpujarras.fair.coop/en/projects/workshop-biogas"> Biogas</a></td>
+    </tr>
     </table>
      </div>
      
