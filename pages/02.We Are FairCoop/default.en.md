@@ -158,7 +158,7 @@ facebookimg: /blog/CatsHUHV.jpg
             <a href="https://t.me/lasalpujarras"> Telegram </a> EMAIL: lasalpujarras@fair.coop
             
 <dic class="image">         
- <img src="/images/ibc2.jpg" alt="IBC2" width="250" height="300">
+ <img src="/images/ibc2.jpg" alt="IBC2" width="236" height="420">
   </div>
     </div>
     
