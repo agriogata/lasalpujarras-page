@@ -1,6 +1,5 @@
 ---
 title: 'We Are FairCoop'
-media_order: 'ibc2.jpg,ibc3.jpg'
 published: true
 process:
     markdown: true
