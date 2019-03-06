@@ -88,7 +88,7 @@ Cooperatives life from and for their members. It is same with FairCoop. To creat
 <h1> VIVA LA COOPERATIVA!</h1>
 
 If you like our project for a cooperative economy, you have different ways to support us:<br>
-<h3>Buy our Products::</h3><br>
+<h3>Buy our Products::</h3>
 Our offer share the way how we would like to bring a cooperative economy to you. A need orientated and participative economy, where the daily satisfaction of the need is the beginning of all organization. The products/services we offer are cooperative, organic, non profit and in the aim to grow common wealth and economic stuctures, which are based on equality, sustainability and freedom.<br>
 With every cent you spend for our products and you don’t spend in one of this big company, you support local development instead of exploitation and competition in the world.<br> 
 <h3>Produce something/Offer a service:</h3><br>
