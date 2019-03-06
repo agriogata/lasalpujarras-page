@@ -58,7 +58,7 @@ title: 'workshop biogas'
 As contribution to the actual protest against the <a href="http://dinoalastorres.org/"> high tension tower <a> we would like to invite you to projects of local energy production. from the people for the people. <br>
     One possibility as thermal and electric supply especially in rural areas is the biogasdigester <br>
             
- <iframe src="https://www.youtube.com/watch?v=Cwm5Rm8uIsk" frameborder="0" 	allowfullscreen width="640" height="380"></iframe>
+ <iframe src="https://www.youtube.com/watch?v=Cwm5Rm8uIsk" frameborder="0" width="640" height="380"></iframe>
  <br>
  
  We start a serie of workshop days in which we set up this biodigester. everybody is welcome, let us know if you want to join  <a href="https://t.me/lasalpujarras"> Telegram </a> EMAIL: lasalpujarras@fair.coop <br>
