@@ -1,6 +1,5 @@
 ---
 title: Blog
-media_order: 'campino ortega.jpg'
 published: true
 taxonomy:
     category:
@@ -164,7 +163,7 @@ pagination: true
         <h1> FIRST FOUNDATION MEETING 14thMARCH 14H IN THE GARDEN</h1>
  We are looking for nice people who would like to set up with us a GardenCooperative near to Orgiva with different projects inside: Community Supported Agriculture, Gardencafe, Workshopspace, Harvestcrew and much more.
     If you are interested and nice, we would like to invite you to present each other and to see the untill now prepared gardenarea. Contact us: lasalpujarras@fair.coop or  visit us in our telegram group <a href="https://t.me/lasalpujarras"> Alpujarra </a>
-        ![](campino%20ortega.jpg)
+ <img src="/images/campino ortega.jpg" alt="campino ortega" width="236" height="420">
     </div>
    <div class="welcome">
     <iframe float="left" width="483" height="386" src="https://www.youtube.com/embed/Cwm5Rm8uIsk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
