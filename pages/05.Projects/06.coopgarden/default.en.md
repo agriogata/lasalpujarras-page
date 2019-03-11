@@ -1,5 +1,6 @@
 ---
 title: CoopGarden
+media_order: 'campino ortega.jpg'
 ---
 
 <head>
