@@ -14,6 +14,11 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+    languages:
+        supported:
+            - en
+            - fr
+            - de
 ---
 
 <head>
