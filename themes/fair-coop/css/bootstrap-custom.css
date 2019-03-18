@@ -327,6 +327,13 @@ a.nav-link {
 a.dropdown-item{
     color: #fff;
 }
+.languages {
+      supported:
+    - en
+    - fr
+    - de
+    - es
+}
 .dropdown .languages {
     padding-right: 20px;
 }
