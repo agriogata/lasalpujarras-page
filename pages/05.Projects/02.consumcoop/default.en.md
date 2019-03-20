@@ -100,9 +100,9 @@ If we don't want that our economy and with this our needs and income is dependin
 
 Here you will find all the news and informations about the ConsumCoop.
         </div>  
-        We would like to make collective purchases from different producer and distributor from this area. at the moment we are ordering from rincon del seguare and las torcas
     <div class="block">
-    	
+	We would like to make collective purchases from different producer and distributor from this area. at the moment we are 	ordering from rincon del seguare and las torcas
+
     </div>
         <div class="block">
        <h2> If you like the idea and would like to find out more, write us, ask what ever you would like to know and we can 				add your emailadresse to the newsletter </h2>
