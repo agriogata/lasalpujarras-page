@@ -101,7 +101,7 @@ If we don't want that our economy and with this our needs and income is dependin
 Here you will find all the news and informations about the ConsumCoop.
         </div>  
     <div class="block">
-    	<h3> we would like to propose you to use the webservice of the techcollective <a href="https://bazar.komun.org/en/">  					Komun </a> </h3>
+    	
     </div>
         <div class="block">
        <h2> If you like the idea and would like to find out more, write us, ask what ever you would like to know and we can 				add your emailadresse to the newsletter </h2>
