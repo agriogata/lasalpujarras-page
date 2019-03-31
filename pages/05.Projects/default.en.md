@@ -86,6 +86,7 @@ content:
 <div class="welcome">
     <a href="https://lasalpujarras.fair.coop/en/projects/workshop-biogas"> <h1> Biogas </h1> </a>
     </div>  
+    <div class="welcome">
         <a href="https://lasalpujarras.fair.coop/en/projects/beercoop"> <h1> BeerCoop </h1> </a>
     </div>
     
