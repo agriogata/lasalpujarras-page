@@ -139,7 +139,7 @@ pagination: true
             <a href="https://fair-coin.org/"><img src="https://fair-coin.org/sites/default/files/inlineimg/weacceptfaircoin.png"> </a>
     </div> 
 <div class= "body">
- 	<div class="timetable">
+<div class="timetable">
      <h1>TimeTable</h1>
      <table id="taks">
   <tr>
@@ -158,10 +158,37 @@ pagination: true
         <td><a href="https://lasalpujarras.fair.coop/en/projects/workshop-biogas"> Biogas</a></td>
     </tr>
     </table>
-     </div>
+</div>
      
 <div class= "container">
-    <div class="welcome">
+<div class="welcome">
+        <h1> NEXT MEETINGDAY THURSDAY 4th APRIL IN THE GARDEN</h1>
+ The doors are open for everybody to meet us, to learn about the project and get information how to get involved. 
+    click <a href="https://www.openstreetmap.org/search?query=36.8925%2C-3.4200#map=19/36.89261/-3.41999&layers=N"> here </a> for the location. You will find us from 10h a.m. in the garden.<br><br>
+    <h3> First proposal</h3><br>
+    <b>Organiztion</b><br>
+    the participating members/voluneers meet together to work on the land in different working groups. <br>
+    - kitchen/cafe/events <br>
+    - garden <br>
+    - workshops <br>
+    - association issues <br>
+    - construction <br>
+    -...<br><br>
+We work for each other in the community and have all benefit of the diffent projects:<br>
+    - getting meal/drinks on the land <br>
+    - getting vegetables/fruits from the harvest <br>
+    - getting money contributions from the funding <br>
+    - support from the community where ever its possible <br>
+    <br>
+<b>Funding</b><br>
+-People can join the food distribution and pay a regular contribution depending of the budget <br>
+-People can come to consum in the cafe for low budget <br>
+-We ask for donations/crowdfunding for investments <br>
+-Members pay a coopshare which can be payed in work <br>
+<br>
+<img src="/images/entrance klein.jpg" alt="entrance klein">
+        </div>    
+<div class="welcome">
         <h1> FIRST FOUNDATION MEETING 14thMARCH 14H IN THE GARDEN</h1>
  We are looking for nice people who would like to set up with us a GardenCooperative near to Orgiva with different projects inside: Community Supported Agriculture, Gardencafe, Workshopspace, Harvestcrew and much more.
     If you are interested and nice, we would like to invite you to present each other and to see the untill now prepared gardenarea. Contact us: lasalpujarras@fair.coop or  visit us in our telegram group <a href="https://t.me/lasalpujarras"> Alpujarra </a>
