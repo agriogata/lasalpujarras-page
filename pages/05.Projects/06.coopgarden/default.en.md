@@ -132,12 +132,12 @@ media_order: 'campino ortega.jpg'
     <tr>
         <td>fieldview</td>
         <td>-</td>
-        <td><a href="https://lasalpujarras.fair.coop/en/projects/estatudos"> Estatudos</a></td>
+        <td>Estatudos</td>
     </tr>
              <tr>
         <td>workflow</td>
         <td>-</td>
-                 <td><a href="https://lasalpujarras.fair.coop/en/projects/join"> <b>JOIN</b></a></td>
+                 <td><a href="https://lasalpujarras.fair.coop/en/participation-support"> <b>JOIN</b></a></td>
     </tr>
     </table>
      </div>  
