@@ -49,6 +49,17 @@ media_order: 'campino ortega.jpg'
                 right: 20px;
                 top: 220px;
             }
+            .worktable{
+                border-radius: 15px;
+                 background-color: #20202c;
+                 padding: 5px 10px;
+                margin: 20px 0;
+                color: white;
+                float: right;
+                position: absolute;
+                right: 20px;
+                top: 400px;
+            }
             .faircoin{
             float: right;
             width: 10%;
@@ -68,9 +79,8 @@ media_order: 'campino ortega.jpg'
                  background-color: #20202c;
                  padding: 5px 10px;
                 margin: 20px 0;
-             	
-                }
-            h1{
+             	}
+        h1{
                 color: white;
                 text-alinge: centre;
             }
@@ -111,6 +121,26 @@ media_order: 'campino ortega.jpg'
     </tr>
     </table>
      </div>        
+ <div class="worktable">
+     <h1>The Projects</h1>
+     <table id="taks">
+  <tr>
+     <th>Garden</th>
+    <th>Cafe</th>
+     <th>Association</th>
+  </tr>
+    <tr>
+        <td>fieldview</td>
+        <td>-</td>
+        <td><a href="https://lasalpujarras.fair.coop/en/projects/estatudos"> Estatudos</a></td>
+    </tr>
+             <tr>
+        <td>workflow</td>
+        <td>-</td>
+                 <td><a href="https://lasalpujarras.fair.coop/en/projects/join"> <b>JOIN</b></a></td>
+    </tr>
+    </table>
+     </div>  
  <div class="welcome">
         <h1> NEXT MEETINGDAY THURSDAY 4th APRIL IN THE GARDEN</h1>
  The doors are open for everybody to meet us, to learn about the project and get information how to get involved. 
