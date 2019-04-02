@@ -112,10 +112,10 @@ We work for each other in the community and have all benefit of the diffent proj
     - support from the community where ever its possible <br>
     <br>
 <b>Funding</b><br>
-People can join the food distribution and pay a regular contribution depending of the budget <br>
-People can come to consum in the cafe for low budget <br>
-We ask for donations/crowdfunding for investments <br>
-Members pay a coopshare which can be payed in work <br>
+-People can join the food distribution and pay a regular contribution depending of the budget <br>
+-People can come to consum in the cafe for low budget <br>
+-We ask for donations/crowdfunding for investments <br>
+-Members pay a coopshare which can be payed in work <br>
 <br>
 <img src="/images/entrance klein.jpg" alt="entrance klein">
         </div>
