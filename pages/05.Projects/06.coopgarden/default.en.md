@@ -96,8 +96,29 @@ media_order: 'campino ortega.jpg'
         <h1> NEXT MEETINGDAY THURSDAY 4th APRIL IN THE GARDEN</h1>
  The doors are open for everybody to meet us, to learn about the project and get information how to get involved. 
     click <a href="https://www.openstreetmap.org/search?query=36.8925%2C-3.4200#map=19/36.89261/-3.41999&layers=N"> here </a> for the location. You will find us from 10h a.m. in the garden.
- <img src="/images/entrance klein.jpg" alt="entrance klein">
-    </div>
+    <h3> First proposal</h3>
+    <b>Organiztion</b><br>
+    the participating members/voluneers meet together to work on the land in different working groups. <br>
+    - kitchen/cafe/events <br>
+    - garden <br>
+    - workshops <br>
+    - association issues <br>
+    - construction <br>
+    -...<br><br>
+We work for each other in the community and have all benefit of the diffent projects:<br>
+    - getting meal/drinks on the land <br>
+    - getting vetetables/fruits from the harvest <br>
+    - getting money contributions from the funding <br>
+    - support from the community where ever its possible <br>
+    <br>
+<b>Funding</b><br>
+People can join the food distribution and pay a regular contribution depending of the budget <br>
+People can come to consum in the cafe for low budget <br>
+We ask for donations/crowdfunding for investments <br>
+Members pay a coopshare which can be payed in work <br>
+<br>
+<img src="/images/entrance klein.jpg" alt="entrance klein">
+        </div>
     
 <div class="welcome">
  <h1>   We are looking for nice people who would like to set up with us a GardenCooperative near to Orgiva with different projects inside: Community Supported Agriculture, Gardencafe, Workshopspace, Harvestcrew and much more.</h1>
