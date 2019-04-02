@@ -95,9 +95,9 @@ media_order: 'campino ortega.jpg'
  <div class="welcome">
         <h1> NEXT MEETINGDAY THURSDAY 4th APRIL IN THE GARDEN</h1>
  The doors are open for everybody to meet us, to learn about the project and get information how to get involved. 
-    click <a href="https://www.openstreetmap.org/search?query=36.8925%2C-3.4200#map=19/36.89261/-3.41999&layers=N"> here </a> for the location. You will find us from 10h a.m. in the garden.<br>
+    click <a href="https://www.openstreetmap.org/search?query=36.8925%2C-3.4200#map=19/36.89261/-3.41999&layers=N"> here </a> for the location. You will find us from 10h a.m. in the garden.<br><br>
     <h3> First proposal</h3><br>
-    <b>Organiztion</b>
+    <b>Organiztion</b><br>
     the participating members/voluneers meet together to work on the land in different working groups. <br>
     - kitchen/cafe/events <br>
     - garden <br>
