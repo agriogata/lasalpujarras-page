@@ -58,7 +58,7 @@ media_order: 'campino ortega.jpg'
                 float: right;
                 position: absolute;
                 right: 20px;
-                top: 450px;
+                top: 220px;
             }
             .faircoin{
             float: right;
@@ -101,26 +101,7 @@ media_order: 'campino ortega.jpg'
 
 </style>
         </head>
-  <div class="timetable">
-     <h1>TimeTable</h1>
-     <table id="taks">
-  <tr>
-     <th>time</th>
-    <th>action</th>
-     <th>place</th>
-  </tr>
-    <tr>
-        <td>thursday from 10h</td>
-        <td>meeting/working day</td>
-        <td><a href="https://lasalpujarras.fair.coop/en/projects/coopgarden"> CoopGarden</a></td>
-    </tr>
-             <tr>
-        <td>friday from 3pm</td>
-        <td>workshop</td>
-        <td><a href="https://lasalpujarras.fair.coop/en/projects/workshop-biogas"> Biogas</a></td>
-    </tr>
-    </table>
-     </div>        
+  
  <div class="worktable">
      <h1>The Projects</h1>
      <table id="taks">
