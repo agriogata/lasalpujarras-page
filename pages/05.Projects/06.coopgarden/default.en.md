@@ -58,7 +58,7 @@ media_order: 'campino ortega.jpg'
                 float: right;
                 position: absolute;
                 right: 20px;
-                top: 400px;
+                top: 450px;
             }
             .faircoin{
             float: right;
