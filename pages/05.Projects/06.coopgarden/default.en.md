@@ -107,7 +107,7 @@ media_order: 'campino ortega.jpg'
     -...<br><br>
 We work for each other in the community and have all benefit of the diffent projects:<br>
     - getting meal/drinks on the land <br>
-    - getting vetetables/fruits from the harvest <br>
+    - getting vegetables/fruits from the harvest <br>
     - getting money contributions from the funding <br>
     - support from the community where ever its possible <br>
     <br>
