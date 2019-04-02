@@ -96,7 +96,7 @@ media_order: 'campino ortega.jpg'
         <h1> NEXT MEETINGDAY THURSDAY 4th APRIL IN THE GARDEN</h1>
  The doors are open for everybody to meet us, to learn about the project and get information how to get involved. 
     click <a href="https://www.openstreetmap.org/search?query=36.8925%2C-3.4200#map=16/36.8925/-3.4200&layers=N"> here </a> for the location.
- <img src="/images/puero klein.jpg" alt="puero klein" width="600" height="420">
+ <img src="/images/puero klein.jpg" alt="puero klein" width="200" height="420">
     </div>
     
 <div class="welcome">
