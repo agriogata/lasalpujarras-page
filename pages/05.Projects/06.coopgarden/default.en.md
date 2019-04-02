@@ -91,7 +91,26 @@ media_order: 'campino ortega.jpg'
 
 </style>
         </head>
-        
+  <div class="timetable">
+     <h1>TimeTable</h1>
+     <table id="taks">
+  <tr>
+     <th>time</th>
+    <th>action</th>
+     <th>place</th>
+  </tr>
+    <tr>
+        <td>thursday from 10h</td>
+        <td>meeting/working day</td>
+        <td><a href="https://lasalpujarras.fair.coop/en/projects/coopgarden"> CoopGarden</a></td>
+    </tr>
+             <tr>
+        <td>friday from 3pm</td>
+        <td>workshop</td>
+        <td><a href="https://lasalpujarras.fair.coop/en/projects/workshop-biogas"> Biogas</a></td>
+    </tr>
+    </table>
+     </div>        
  <div class="welcome">
         <h1> NEXT MEETINGDAY THURSDAY 4th APRIL IN THE GARDEN</h1>
  The doors are open for everybody to meet us, to learn about the project and get information how to get involved. 
