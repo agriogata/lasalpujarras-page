@@ -91,11 +91,14 @@ media_order: 'campino ortega.jpg'
 
 </style>
         </head>
-        <div class="welcome">
+        
+ <div class="welcome">
         <h1> NEXT MEETINGDAY THURSDAY 4th APRIL IN THE GARDEN</h1>
- The doors are open for everybody to meet us, to learn about the project and get information how to get involved. click <a href="https://www.openstreetmap.org/search?query=36.8925%2C-3.4200#map=16/36.8925/-3.4200&layers=N"> here </a> for the location </a>
- <img src="/images/campino ortega.jpg" alt="campino ortega" width="600" height="420">
+ The doors are open for everybody to meet us, to learn about the project and get information how to get involved. 
+    click <a href="https://www.openstreetmap.org/search?query=36.8925%2C-3.4200#map=16/36.8925/-3.4200&layers=N"> here </a> for the location.
+ <img src="/images/entrance klein.jpg" alt="entrance klein" width="600" height="420">
     </div>
+    
 <div class="welcome">
  <h1>   We are looking for nice people who would like to set up with us a GardenCooperative near to Orgiva with different projects inside: Community Supported Agriculture, Gardencafe, Workshopspace, Harvestcrew and much more.</h1>
     If you are interested and nice, we would like to invite you to present each other and to see the untill now prepared gardenarea. Contact us: lasalpujarras@fair.coop or  visit us in our telegram group <a href="https://t.me/lasalpujarras"> Alpujarra </a>
