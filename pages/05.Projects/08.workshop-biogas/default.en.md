@@ -65,6 +65,10 @@ As contribution to the actual protest against the <a href="http://dinoalastorres
                 Further then the construction we will inform you here about the actualities, perhaps you are also interested in one digester like this in your garden
 
 </div>
+<div class="welcome">
+![](http://solarcities.eu/sites/solarcities.eu/files/styles/maxwdith3_3/public/media/solarcities_poster.png?itok=nk0apkaj)
+      </div>
+
        <div class="welcome">
   
   		<div class="image" float="right">         
