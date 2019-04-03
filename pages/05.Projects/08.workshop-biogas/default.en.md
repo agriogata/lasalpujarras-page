@@ -66,7 +66,8 @@ As contribution to the actual protest against the <a href="http://dinoalastorres
 
 </div>
 <div class="welcome">
-![](http://solarcities.eu/sites/solarcities.eu/files/styles/maxwdith3_3/public/media/solarcities_poster.png?itok=nk0apkaj)
+    
+<img src="http://solarcities.eu/sites/solarcities.eu/files/styles/maxwdith3_3/public/media/solarcities_poster.png?itok=nk0apkaj"> 
       </div>
 
        <div class="welcome">
