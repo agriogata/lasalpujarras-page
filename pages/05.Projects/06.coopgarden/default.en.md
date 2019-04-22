@@ -116,7 +116,7 @@ media_order: 'campino ortega.jpg'
         <td>Estatudos</td>
     </tr>
              <tr>
-        <td>workflow</td>
+        <td><a href="https://lasalpujarras.fair.coop/en/projects/coopgarden/workflow"> <b>workflow</b></td>
         <td>-</td>
                  <td><a href="https://lasalpujarras.fair.coop/en/participation-support"> <b>JOIN</b></a></td>
     </tr>
