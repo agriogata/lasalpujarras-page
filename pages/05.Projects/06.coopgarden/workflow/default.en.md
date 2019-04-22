@@ -10,6 +10,7 @@ title: workflow
                  padding: 5px 10px;
                 margin: 20px 0;
                 color: white;
+    			width: auto;
             }
     </style>
     </head>        
