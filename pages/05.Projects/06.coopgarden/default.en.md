@@ -122,6 +122,13 @@ media_order: 'campino ortega.jpg'
     </tr>
     </table>
      </div>  
+     <div class="welcome">
+ 		<img src="/images/whattoplantwhen1.jpg" alt="campino ortega" width="600" height="420">
+    <img src="/images/whattoplantwhen2.jpg" alt="campino ortega" width="600" height="420">
+    <img src="/images/twhattoplantwhen3.jpg" alt="campino ortega" width="600" height="420">
+    <img src="/images/twhattoplantwhen4.jpg" alt="campino ortega" width="600" height="420">
+    <img src="/images/twhattoplantwhen5.jpg" alt="campino ortega" width="600" height="420">
+    </div>
  <div class="welcome">
         <h1> NEXT MEETINGDAY THURSDAY 4th APRIL IN THE GARDEN</h1>
  The doors are open for everybody to meet us, to learn about the project and get information how to get involved. 
