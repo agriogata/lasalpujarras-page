@@ -13,6 +13,6 @@ title: workflow
             }
     </style>
     </head>        
-<div clas="month">
+<div class="month">
     Growing
     </div>
