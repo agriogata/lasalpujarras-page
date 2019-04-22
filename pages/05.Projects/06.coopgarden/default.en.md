@@ -122,7 +122,7 @@ media_order: 'campino ortega.jpg'
     </tr>
     </table>
      </div>  
-     <div class="welcome">
+<div class="welcome">
  		<img src="/images/whattoplantwhen1.jpg" alt="campino ortega" width="600" height="420">
     <img src="/images/whattoplantwhen2.jpg" alt="campino ortega" width="600" height="420">
     <img src="/images/twhattoplantwhen3.jpg" alt="campino ortega" width="600" height="420">
