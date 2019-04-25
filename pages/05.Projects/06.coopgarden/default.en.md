@@ -123,7 +123,7 @@ media_order: 'campino ortega.jpg'
     </table>
      </div>  
 <div class="welcome">
-    <h1> This is the calendary on which we orientate with the growing, click <a href="https://lasalpujarras.fair.coop/en/projects/coopgarden/workflow"> here <a/> to see on what we are working every Month </h1>
+    <h1> This is the calendary on which we orientate with the growing, click <a href="https://lasalpujarras.fair.coop/en/projects/coopgarden/workflow"><b> HERE </b> <a/> to see on what we are working every Month </h1>
         
  	<img src="/images/whattoplantwhen1.jpg" alt="campino ortega" width="600" height="420">
     <img src="/images/whattoplantwhen2.jpg" alt="campino ortega" width="600" height="420">
