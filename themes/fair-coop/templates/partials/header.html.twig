@@ -9,8 +9,7 @@
 	<div class="dropdown languages">
 
   	<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-   	{{ 'Languages'|t }}
-  	</button>
+{% include 'partials/language-selector.html.twig' %}  	</button>
   		<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
 		{% include 'partials/language-selector.html.twig' %}
 
