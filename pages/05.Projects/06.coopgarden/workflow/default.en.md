@@ -22,6 +22,8 @@ title: workflow
             <li> Beetroot likes neutral, moist, fertile soil without too much lime or acidity (pH 6.5-7.0). </li>
             <li>The soil should be soft and not have too much clay or too much sand; however, since the root develops at the surface, a clay soil can be tolerated if the top has been loosened by the addition of lots of well-rotted organic matter (don't add this unless the soil has much clay). </li>
             <li>The position needs to be sunny and open but it will tolerate part shade. </li>
+            <li> <a href="https://www.wikihow.com/Grow-Beetroot"> <b> more information...</b> </a>
+    </ul>
     </div>
 <div class="month">
     <h1> August </h1>
