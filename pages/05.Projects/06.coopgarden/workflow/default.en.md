@@ -22,13 +22,13 @@ title: workflow
             <li> Start eggplant seeds indoors 6-9 weeks before the last frost is expected.  </li>
             <li> Choose a spot in your garden that gets full sunlight. </li>
             <li> Water eggplants thoroughly once a week. </li>
-            <li> <a href="https://www.wikihow.com/Grow-Eggplant"> <b>How to Grow Eggplant (with Pictures) - wikiHow</b> </a></li>
+            <li> <a href="https://www.wikihow.com/Grow-Eggplant"> <b>more information...</b> </a></li>
     </ul>
     <h4>     Basil</h4>
     	<ul>
             <li> Water them. After the seeds have germinated or sprouted, it is important to spray them daily to keep the humidity levels healthy inside the container.  </li>
             <li> Wait before transplanting them. The longer you leave the basil seedlings in their container with humidity the better. Most basil seedlings will die because they are transplanted to soon. A perfect time to transplant them is when they have their third set of leaves. </li>
-           <li> <a href="https://www.wikihow.com/Germinate-and-Care-for-Basil-Seedlings"> <b>How to Germinate and Care for Basil Seedlings: 11 Steps</b> </a></li>
+           <li> <a href="https://www.wikihow.com/Germinate-and-Care-for-Basil-Seedlings"> <b>more information...</b> </a></li>
     </ul>
     </div>
 <div class="month">
