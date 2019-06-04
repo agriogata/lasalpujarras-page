@@ -23,7 +23,6 @@ title: workflow
             <li> Choose a spot in your garden that gets full sunlight. </li>
             <li> Water eggplants thoroughly once a week. </li>
             <li> <a href="https://www.wikihow.com/Grow-Eggplant"> <b>How to Grow Eggplant (with Pictures) - wikiHow</b> </a></li>
-            <li> </li>
     </ul>
     </div>
 <div class="month">
