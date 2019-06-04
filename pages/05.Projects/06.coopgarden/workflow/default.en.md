@@ -40,6 +40,7 @@ title: workflow
 </li> 
     <li>Preparing the soil with compost and manure before planting is highly recommended. </li>
     <li>Beans should not be planted until all danger of frost has passed, usually about a week after the last frost in spring.</li>
+    <li> <a href="https://www.gardeningknowhow.com/edible/vegetables/beans/tips-for-growing-beans.htm"> <b>more information...</b> </a>
 
     </div>
 <div class="month">
