@@ -19,7 +19,9 @@ title: workflow
     <h2>     Growing </h2>
     <h4>     Eggplant</h4>
     	<ul>
+            <li> Start eggplant seeds indoors 6-9 weeks before the last frost is expected.  </li>
             <li> Choose a spot in your garden that gets full sunlight. </li>
+            <li> Water eggplants thoroughly once a week. </li>
             <li> <a href="https://www.wikihow.com/Grow-Eggplant"> <b>How to Grow Eggplant (with Pictures) - wikiHow</b> </a></li>
             <li> </li>
     </ul>
