@@ -33,7 +33,14 @@ title: workflow
     </div>
 <div class="month">
     <h1> April </h1>
-    Growing
+      <h2>     Growing </h2>
+    <h4>     Beans</h4>
+<ul>
+    <li>Beans prefer warm weather and shouldn’t be grown in cooler climates. These crops should be grown in sites receiving full sun in well-drained, fertilized soil.
+</li> 
+    <li>Preparing the soil with compost and manure before planting is highly recommended. </li>
+    <li>Beans should not be planted until all danger of frost has passed, usually about a week after the last frost in spring.</li>
+
     </div>
 <div class="month">
     <h1> March </h1>
