@@ -19,9 +19,10 @@ title: workflow
     <h2>     Growing </h2>
     <h4>     Eggplant</h4>
     	<ul>
-            <li> <a href="https://www.wikihow.com/Grow-Eggplant"> <b>How to Grow Eggplant (with Pictures) - wikiHow</b> </li>
+            <li> Choose a spot in your garden that gets full sunlight. </li>
+            <li> <a href="https://www.wikihow.com/Grow-Eggplant"> <b>How to Grow Eggplant (with Pictures) - wikiHow</b> </a></li>
             <li> </li>
-    
+    </ul>
     </div>
 <div class="month">
     <h1> April </h1>
