@@ -14,19 +14,19 @@ title: workflow
             }
     </style>
     </head>
-    <div class="month">
+<div class="month">
     <h1> August </h1>
     Growing
     </div>
-    <div class="month">
+<div class="month">
     <h1> July </h1>
     Growing
     </div>
-    <div class="month">
+<div class="month">
     <h1> June </h1>
     Growing
     </div>
- <div class="month">
+<div class="month">
     <h1> May </h1>
     <h2>     Growing </h2>
     <h4>     Eggplant</h4>
