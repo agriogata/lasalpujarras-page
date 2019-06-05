@@ -111,4 +111,11 @@ title: workflow
 <div class="month">
     <h1> January </h1>
     Growing
+    <h4>Garlic</h4>
+<ul>
+    <li>Garlic needs a lot of full sun, but it might tolerate partial shade provided it's not for very long during the day or growing season.</li>
+<li>The soil must be well dug over and crumbly. Sandy loam is best.</li>
+<li> Use compost and manure to add nutrients to the soil before planting the garlic.</li>
+    <li> <a href="https://www.wikihow.com/Grow-Garlic"> <b>more information...</b></a> </li>
+    </ul>
     </div>
