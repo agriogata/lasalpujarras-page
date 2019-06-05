@@ -36,10 +36,25 @@ title: workflow
 <div class="month">
     <h1> June </h1>
     Growing
+   <h4>Chili(Transplanting)</h4>
+<ul>
+    <li>Chili pepper plants can grow anywhere but they prefer sunny, warm conditions. </li> 
+    <li>Test the pH of your soil and determine if you need to make further adjustments; chilies like soil that has a neutral or slightly acidic pH of 6.5-7.</li>
+    <li>After the first planting, give the chilies a bit of extra water to avoid transplant shock. Then, water them on a daily basis so that the soil is damp. </li>
+    <li> <a href="https://www.wikihow.com/Grow-Chillis"> <b>more information...</b> </a>
+    </ul>
     </div>
 <div class="month">
     <h1> May </h1>
     <h2>Growing </h2>
+    <h4>Watermelon(Transplanting)</h4>
+<ul>
+    <li>Watermelon vines are very tender and should not be transplanted until all danger of frost has passed.</li> 
+    <li>Watermelons prefer a soil pH between 6 and 6.8.</li>
+    <li>Keep soil moist, but not waterlogged. </li>
+    <li>If you choose to fertilize (and many do), make sure it delivers more nitrogen than phosphorus and potassium.</li>
+    <li> <a href="https://www.almanac.com/plant/watermelons"> <b>more information...</b> </a>
+    </ul>
     https://www.almanac.com/plant/watermelons
     <h4>Cucumber(Transplanting)</h4>
 <ul>
