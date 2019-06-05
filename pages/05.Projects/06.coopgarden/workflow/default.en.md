@@ -48,6 +48,7 @@ title: workflow
     <li>The ideal soil for cucumbers is loose, light, and sandy. This type of soil gets warmer more quickly and retains that warmth more easily.[7]</li>
     <li>Growing cucumbers vertically increases exposure to sunlight, giving you a higher yield.</li>
     <li> <a href="https://www.wikihow.com/Grow-Cucumbers"> <b>more information...</b> </a>
+    </ul>
     <h4>Eggplant(Transplanting)</h4>
     	<ul>
             <li> Start eggplant seeds indoors 6-9 weeks before the last frost is expected.  </li>
