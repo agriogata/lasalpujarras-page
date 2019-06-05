@@ -55,7 +55,6 @@ title: workflow
     <li>If you choose to fertilize (and many do), make sure it delivers more nitrogen than phosphorus and potassium.</li>
     <li> <a href="https://www.almanac.com/plant/watermelons"> <b>more information...</b> </a>
     </ul>
-    https://www.almanac.com/plant/watermelons
     <h4>Cucumber(Transplanting)</h4>
 <ul>
     <li>all they really need is plenty of water and a lot of sunlight.
