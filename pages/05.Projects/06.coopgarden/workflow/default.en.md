@@ -40,6 +40,13 @@ title: workflow
 <div class="month">
     <h1> May </h1>
     <h2>     Growing </h2>
+    <h4>     Cucumber</h4>
+<ul>
+    <li>Beans prefer warm weather and shouldn’t be grown in cooler climates. These crops should be grown in sites receiving full sun in well-drained, fertilized soil.
+</li> 
+    <li>Preparing the soil with compost and manure before planting is highly recommended. </li>
+    <li>Growing cucumbers vertically increases exposure to sunlight, giving you a higher yield.</li>
+    <li> <a href="https://www.wikihow.com/Grow-Cucumbers"> <b>more information...</b> </a>
     <h4>     Eggplant(Transplanting)</h4>
     	<ul>
             <li> Start eggplant seeds indoors 6-9 weeks before the last frost is expected.  </li>
