@@ -17,6 +17,17 @@ title: workflow
 <div class="month">
     <h1> September </h1>
     Growing
+    <h4>     Coriander</h4>
+    <h4>     Cabbage</h4>
+   <h4>     Carrot</h4>
+    <h4>     Celery</h4>
+    <h4>     Kale</h4>
+    <h4>     Kohlrabi</h4>
+    <h4>     Leak</h4>
+    <h4>     Lettuce</h4>
+    <h4>     Mustard</h4>
+    <h4>     Onions</h4>
+    <h4>     Broccoli</h4>
     <h4>     Beetroot</h4>
     	<ul>
             <li> Beetroot likes neutral, moist, fertile soil without too much lime or acidity (pH 6.5-7.0). </li>
