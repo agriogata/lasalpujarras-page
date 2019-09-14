@@ -124,8 +124,23 @@ media_order: 'campino ortega.jpg'
      </div>  
 <div class="welcome">
     <h1> We are still looking for members of our garden collective </h1>
-    <h3> we invite you to join our working day on every thursaday. get nice veggie supply and decide together with us what we do with the production.<h3> 
-        
+    
+   we invite you to join our working day on every thursday. get nice veggie supply and decide together with us what we do with the production.
+    at the moment we are preparing the garden for the winter, have a look  <a href="https://lasalpujarras.fair.coop/en/projects/coopgarden/workflow"><b> HERE </b> <a/> which plants we have in mind. If you have more ideas, very welcome!
+    In the meantime we have a lot of veggie from the summer which needs care and have to be harvested. We have:
+*     tomatoes
+*     chillies
+*     carrots
+*     leak
+*     eggplants
+*     corn
+*     beans
+*     pumpkin
+*     and much more
+
+Hope to meet you in our garden
+   
+    
  </div>
 <div class="welcome">
     <h1> This is the calendary on which we orientate with the growing, click <a href="https://lasalpujarras.fair.coop/en/projects/coopgarden/workflow"><b> HERE </b> <a/> to see on what we are working every Month </h1>
