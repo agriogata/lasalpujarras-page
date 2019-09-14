@@ -123,6 +123,11 @@ media_order: 'campino ortega.jpg'
     </table>
      </div>  
 <div class="welcome">
+    <h1> We are still looking for members of our garden collective </h1>
+    <h3> we invite you to join our working day on every thursaday. get nice veggie supply and decide together with us what we do with the production.<h3> 
+        
+ </div>
+<div class="welcome">
     <h1> This is the calendary on which we orientate with the growing, click <a href="https://lasalpujarras.fair.coop/en/projects/coopgarden/workflow"><b> HERE </b> <a/> to see on what we are working every Month </h1>
         
  	<img src="/images/whattoplantwhen1.jpg" alt="campino ortega" width="600" height="420">
