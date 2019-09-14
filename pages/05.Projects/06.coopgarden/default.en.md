@@ -129,15 +129,15 @@ media_order: 'campino ortega.jpg'
     at the moment we are preparing the garden for the winter, have a look  <a href="https://lasalpujarras.fair.coop/en/projects/coopgarden/workflow"><b> HERE </b> <a/> which plants we have in mind. If you have more ideas, very welcome!
     In the meantime we have a lot of veggie from the summer which needs care and have to be harvested. We have:
     
-- tomatoes
-- chillies
-- carrots
-- leak
-- eggplants
-- corn
-- beans
-- pumpkin
-- and much more
+ - tomatoes
+ - chillies
+ - carrots
+ - leak
+ - eggplants
+ - corn
+ - beans
+ - pumpkin
+ - and much more
 
 Hope to meet you in our garden
    
