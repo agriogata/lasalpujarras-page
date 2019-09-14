@@ -17,7 +17,7 @@ title: workflow
 <div class="month">
     <h1> September </h1>
     <h3> Growing </h3>
-    <h4>     Beetroot</h4>
+    <h4>     Beetroot (sowing, harvesting)</h4>
     	<ul>
             <li> Beetroot likes neutral, moist, fertile soil without too much lime or acidity (pH 6.5-7.0). </li>
             <li>The soil should be soft and not have too much clay or too much sand; however, since the root develops at the surface, a clay soil can be tolerated if the top has been loosened by the addition of lots of well-rotted organic matter (don't add this unless the soil has much clay). </li>
@@ -27,7 +27,7 @@ title: workflow
     <h4>     Broccoli</h4>
     <h4>     Coriander</h4>
     <h4>     Cabbage</h4>
-   <h4>     Carrot</h4>
+   <h4>     Carrot (harvesting, sowing, weeding)</h4>
     <h4>     Celery</h4>
     <h4>     Kale</h4>
     <h4>     Kohlrabi</h4>
