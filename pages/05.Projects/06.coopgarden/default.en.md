@@ -127,7 +127,7 @@ media_order: 'campino ortega.jpg'
     
    we invite you to join our working day on every thursday. get nice veggie supply and decide together with us what we do with the production.
     at the moment we are preparing the garden for the winter, have a look  <a href="https://lasalpujarras.fair.coop/en/projects/coopgarden/workflow"><b> HERE </b> <a/> which plants we have in mind. If you have more ideas, very welcome!
-    In the meantime we have a lot of veggie from the summer which needs care and have to be harvested. 
+    In the meantime we have a lot of veggie from the summer which needs care and have to be harvested. <br>
     Apart of a lot of trees (orange,lemon,nisperos...) <br>
     We have: <br>
     
