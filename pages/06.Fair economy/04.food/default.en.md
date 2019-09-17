@@ -34,7 +34,7 @@ content:
                 border-radius: 15px;
                  background-color: #20202c;
                  padding: 5px 10px;
-                margin: 20px 5px;
+                margin: 10px 5px;
                 color: white;
             	width: auto;
             	float: left;
@@ -48,12 +48,12 @@ content:
 </head> 
 <div class="clearfix">
 <div class="product">
-    <h3>Potatoes</h3>
+    <h4>Potatoes</h4>
     </div>
 <div class="product">
-    <h3>carrots</h3>
+    <h4>carrots</h4>
     </div>
 <div class="product">
-    <h3>leak</h3>
+    <h4>leak</h4>
     </div>
     </div>
