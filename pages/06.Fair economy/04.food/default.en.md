@@ -19,7 +19,6 @@ content:
         by: date
         dir: desc
     pagination: true
-    url_taxonomy_filters: true
 ---
 
 <head>
