@@ -48,12 +48,12 @@ content:
 </head> 
 <div class="clearfix">
 <div class="product">
-    <h1>Potatoes</h1>
+    <h3>Potatoes</h3>
     </div>
 <div class="product">
-    <h1>carrots</h1>
+    <h3>carrots</h3>
     </div>
 <div class="product">
-    <h1>leak</h1>
+    <h3>leak</h3>
     </div>
     </div>
