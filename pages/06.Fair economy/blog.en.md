@@ -7,12 +7,8 @@ taxonomy:
         - food
         - 'economia local'
         - electronic
-    tag:
-        - 'economia local'
-        - food
-        - energy
-        - electronic
-menu: 'Fair economy'
+    tag: 'false'
+    menu: 'Fair economy'
 process:
     markdown: true
     twig: true
