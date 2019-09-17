@@ -7,7 +7,7 @@ taxonomy:
         - food
         - 'economia local'
         - electronic
-    tag: 'false'
+    tag: ''
     menu: 'Fair economy'
 process:
     markdown: true
